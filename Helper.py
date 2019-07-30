@@ -15,6 +15,6 @@ def print_board(state):
     print(" --- --- ---")
     print("| " + state[6] + " | " + state[7] + " | " + state[8] + " |")
     print(" --- --- ---")
-    print("      ^")
     print("      |")
     print("      |")
+    print("      V")
